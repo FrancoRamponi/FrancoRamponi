@@ -1,8 +1,3 @@
-'''
-Juego - Sudoku
-TPO - Programacion 1
-Grupo 9
-'''
 import random
 
 
